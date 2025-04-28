@@ -1,0 +1,21 @@
+[
+  "DATA",
+  "SET",
+  "MERGE",
+  "IF",
+  "ELSE",
+  "DO",
+  "END",
+  "OUTPUT",
+  "PROC PRINT",
+  "PROC MEANS",
+  "PROC FREQ",
+  "PROC SORT",
+  "PROC REPORT",
+  "PROC SQL",
+  "RUN",
+  "QUIT",
+  "LIBNAME",
+  "FILENAME",
+  "OPTIONS"
+]
